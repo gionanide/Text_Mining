@@ -1,7 +1,7 @@
 #!usr/bin/python
 #First example
-#introduction to text mining Level : Begginer
-print('First text mining example by Gionanide:')
+#introduction to text mining Level : Beginner
+print('First text mining example:')
 
 print('The text of the input file is the following:')
 with open('/home/manos/test','r') as inputFIle:
